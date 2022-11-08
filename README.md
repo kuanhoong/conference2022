@@ -44,10 +44,11 @@ R confeRence 2022 is Malaysia's largest R User Conference featuring leading indu
 | 13:00 - 14:00 | Lunch |
 | 14:00 - 14:50 | Tengku Muhammad Hanis Bin Tengku Mokhtar: Exploring Past Literatures: A Bibliometric Approach |
 | 15:00 - 15:50 | Mohd Azmi Bin Suliman: Modeling Health Measurement Trend with Linear Mixed Effect Model Using lme4 |
-| 16:00 - 16:50 | Che Muhammad Nur Hidayat bin Che Nawi: Reproducible and Presentation-Ready Analytical Method Using GT Summary in Medical Research |
+| 16:00 - 16:50 | Che Muhammad Nur Hidayat Che Nawi: Reproducible & Presentation-Ready Analytical Method Using GT Summary in Medical Research |
 
 # Instructors/Speakers
 - [Poo Kuan Hoong, Ph.D](www.linkedin.com/in/kuanhoong)
 - [Dr. Yu Yong Poh](https://www.linkedin.com/in/yong-poh-yu/)
-- 
+- [Dr. Wan Muhammad Hasni bin Wan Sulaiman]()
+
 
