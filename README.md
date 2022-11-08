@@ -14,7 +14,7 @@ R confeRence 2022 is Malaysia's largest R User Conference featuring leading indu
 
 | Time          | Trainer-Topic                                                                                              |   
 |---------------|------------------------------------------------------------------------------------------------------------|
-| 10:10 - 11:30 | Dr. Wan Muhammad Hasni bin Wan Sulaiman: Application of Computational Linguistic using R on Quranic Arabic |   
+| 10:10 - 11:30 | Dr. Wan Muhammad Hasni Wan Sulaiman: Application of Computational Linguistic using R on Quranic Arabic |   
 | 11:30 - 13:00 | Dr. Yu Yong Poh: Introduction to R                                                                         |   
 | 13:00 - 14:00 | Lunch                                                                                                      |   
 | 14:00 - 15:30 | Dr. Poo Kuan Hoong: Data Wrangling with TidyVerse |
