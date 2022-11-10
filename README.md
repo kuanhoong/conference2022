@@ -49,6 +49,19 @@ R confeRence 2022 is Malaysia's largest R User Conference featuring leading indu
 # Instructors/Speakers
 - [Poo Kuan Hoong, Ph.D](www.linkedin.com/in/kuanhoong)
 - [Dr. Yu Yong Poh](https://www.linkedin.com/in/yong-poh-yu/)
+- [Dr. Gan Chew Peng](https://www.linkedin.com/in/chew-peng-gan-03b516a6/)
 - [Dr. Wan Muhammad Hasni bin Wan Sulaiman]()
+- [Sailalith Sarupuri](https://www.linkedin.com/in/sailalith-sarupuri-ba263723/)
+- [Dr. Nurul Ain Toha]()
+- [Rupal Shirpurkar](https://www.linkedin.com/in/rupal-shirpurkar-66b03a97/)
+- [Dr. Hannuun Eadiela binti Yaacob]()
+- [Dr. Pieter E Stek](https://www.linkedin.com/in/pstek/)
+- [Prof. Dr. Kamarul Imran Musa](https://www.linkedin.com/in/drkamarul-imran/)
+- [Dr. Wan Nor Ariffin](https://www.linkedin.com/in/wan-nor-arifin-8798443b/)
+- [Tengku Muhammad Hanis Bin Tengku Mokhtar](https://www.linkedin.com/in/tengku-muhammad-hanis-9a7222144/)
+- [Ahmed Arup Kamal](https://www.linkedin.com/in/ahmed-arup-kamal/)
+- [Mohd Azmi Bin Suliman]()
+- [Che Muhammad Nur Hidayat bin Che Naw]()
+- [Dr. Calyn Tan Jen Ai]()
 
 
